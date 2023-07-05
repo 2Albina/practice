@@ -1,0 +1,17 @@
+//#include <string>
+
+//void s2();
+//void s3();
+//void s4();
+//void s5();
+
+
+//s2();
+    //s3();
+    //s4();
+    //s5();
+
+//#include <map>
+//#include <iostream>
+//#include <vector>
+//#include <set>

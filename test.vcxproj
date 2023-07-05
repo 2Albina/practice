@@ -134,13 +134,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Source1.cpp" />
+    <ClCompile Include="Source2.cpp" />
+    <ClCompile Include="Source3.cpp" />
+    <ClCompile Include="Source4.cpp" />
+    <ClCompile Include="Source5.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="with_pch_1.cpp" />
-    <ClCompile Include="with_pch_2.cpp" />
-    <ClCompile Include="with_pch_3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
